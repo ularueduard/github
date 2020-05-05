@@ -1,0 +1,33 @@
+.navbar{
+  background-color: #F97300;
+  font-size: 1.2em;
+  color: white;
+  justify-content: space-between;
+}
+.nav-link, .navbar-brand {
+  color: #f4f4f4;
+}
+
+.nav-link:hover{
+  color:#f4f4f4;
+}
+.navbar-brand:hover{
+  color:#f4f4f4;
+}
+
+header {
+  height: 100vh;
+  background-image: url('images/headerback.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+
+.overlay{
+  position: absolute;
+  min-height: 100%;
+  min-width: 100%;
+  left: 0;
+  top:0;
+  background: rgba(244, 244, 244, 0.79);
+}

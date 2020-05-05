@@ -1,0 +1,44 @@
+body {
+background-color: #fefeb5;
+font-family: arial;
+margin-left: 25%;
+margin-right: 25%;
+
+
+}
+
+span {
+  color:#349c1a;
+}
+
+#blog{
+  text-align: center;
+  margin-left: 30%;
+  margin-right:30%;
+  font-weight:lighter;
+
+}
+
+#cool {
+  margin-left: 30%;
+  margin-right: 30%;
+  font-family: cursive;
+  color: #1763a6;
+  text-align: center;
+}
+
+
+p {
+
+  text-align: center;
+  padding-left: 25%;
+  padding-right: 25%;
+
+}
+a {
+  padding-left: 40%;
+  padding-right: 25%;
+  text-align: center;
+  font-family: cursive;
+  color: #1763a6;
+}
